@@ -2,4 +2,5 @@
 Hello
 team
 Welcome
-Mobile development
+Mobile development.
+Thanks!
